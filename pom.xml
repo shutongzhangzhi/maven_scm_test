@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.zhangzhi.scm</groupId>
     <artifactId>scm</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>Archetype - scm</name>
     <url>http://maven.apache.org</url>
     <packaging>pom</packaging>
